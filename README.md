@@ -7,6 +7,7 @@
 * For a Positive Fact: “I got a raise!
 
  *Stay positive*
+ 
 1- Optimistic Profile: Everything always works out for me.
 
  2- Pessimist Profile: My taxes will be even higher now.
