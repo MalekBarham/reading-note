@@ -8,7 +8,7 @@ technologies.
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| MarkDown    | [MarkDown](markdown)|       
+| MarkDown    | [MarkDown](markdown.md)|       
 | GitHub      | [GitHub](GitHub.md)|
 | Git         | [Git](Git.md)      |
 | Cloning     | [Cloning](Cloning.md) |
