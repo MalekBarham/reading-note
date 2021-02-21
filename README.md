@@ -24,9 +24,9 @@ and i have worked as call center agent for 1 year
 
 * ***contact info***
 
-1- my Email :- Malek50000@gmail.com
+1- my Email : [Malek barham Email](https://mail.google.com/mail/u/0/?tab=wm#inbox)
 
-2- my profile github :- [Malek Barham](https://github.com/MalekBarham)
+2- my profile github : [Malek Barham](https://github.com/MalekBarham)
 
 
  > a short bio :- 
