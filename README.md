@@ -1,4 +1,4 @@
-# **growth mindset**
+# ***growth mindset***
 ## growth mindest :- one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points.
 ![growth mindset](https://foundationoficf.org/wp-content/uploads/2018/12/mindset-800x533.jpg)
 
@@ -21,7 +21,7 @@ Optimistic Profile: I never lose anything, someone probably picked them up for m
 ***some information about me***
 
 my name is Malek Barham I have graduated from **the world islamic sciences and education university** in Financial and banking accounting
-and i have worked as call center agent for 1 year 
+and i have worked as call center agent for 1 year.
 
 * ***contact info***
 
