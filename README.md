@@ -1,4 +1,4 @@
-# growth mindset
+# **growth mindset**
 ## growth mindest :- one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points.
 ![growth mindset](https://foundationoficf.org/wp-content/uploads/2018/12/mindset-800x533.jpg)
 
