@@ -12,4 +12,4 @@ technologies.
 | GitHub      | [GitHub](GitHub.md)|
 | Git         | [Git](Git.md)      |
 | Cloning     | [Cloning](Cloning.md) |
-|             |                       |
+| GrothMindset|[GrothMindset](GrothMindest.md)                       |
